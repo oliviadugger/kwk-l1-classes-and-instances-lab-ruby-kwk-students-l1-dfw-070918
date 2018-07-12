@@ -1,5 +1,5 @@
 # dog.rb
-class dog
+class Dog
 end
     
 @fido = dog.new
